@@ -5,7 +5,7 @@
 - 02_map_ar_properties: notebook de creación y visualización la capas del mapa y el raster.
 
 - ![](https://github.com/nikoloide/map_ar_properties/blob/main/utils/gif_map.gif)
-<img src="/utils/gif_map.gif" width="250" height="250"/>
+<img src="/utils/gif_map.gif" width="500" height="500"/>
 
 #### Inspirado en serie de tutoriales de "Análisis de Precios por Metro Cuadrado de CABA con Properati" del canal de Andres Farrall
 - link: https://www.youtube.com/watch?v=A4zOvXpZOeo
