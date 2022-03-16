@@ -4,7 +4,6 @@
 - 01_generate_data: proceso de carga de datos, selección, generación de features y determinación de vecinos cercanos.
 - 02_map_ar_properties: notebook de creación y visualización la capas del mapa y el raster.
 
-- ![](https://github.com/nikoloide/map_ar_properties/blob/main/utils/gif_map.gif)
 <img src="/utils/gif_map.gif" width="800" height="500"/>
 
 #### Inspirado en serie de tutoriales de "Análisis de Precios por Metro Cuadrado de CABA con Properati" del canal de Andres Farrall
