@@ -9,7 +9,7 @@
 #### Inspirado en serie de tutoriales de "Análisis de Precios por Metro Cuadrado de CABA con Properati" del canal de Andres Farrall
 - link: https://www.youtube.com/watch?v=A4zOvXpZOeo
 
-
+#### Utils
 * datos: https://storage.googleapis.com/properati-data-public/ar_properties.csv.gz
 * *colab: https://colab.research.google.com/drive/1XazOK0ivVLHfCxvECEPdVaoUAYAtCOEL#scrollTo=5b9d1109-3f22-4bcc-a966-20a24da4e835
 
