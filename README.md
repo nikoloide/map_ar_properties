@@ -3,5 +3,5 @@
 
 https://colab.research.google.com/drive/1XazOK0ivVLHfCxvECEPdVaoUAYAtCOEL#scrollTo=5b9d1109-3f22-4bcc-a966-20a24da4e835
 
-![]('utils/map_gif.gif')
+![](https://github.com/nikoloide/map_ar_properties/blob/main/utils/gif_map.gif)
 
