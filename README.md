@@ -11,5 +11,5 @@
 
 #### Utils
 * datos: https://storage.googleapis.com/properati-data-public/ar_properties.csv.gz
-* *colab: https://colab.research.google.com/drive/1XazOK0ivVLHfCxvECEPdVaoUAYAtCOEL#scrollTo=5b9d1109-3f22-4bcc-a966-20a24da4e835
+* colab: https://colab.research.google.com/drive/1XazOK0ivVLHfCxvECEPdVaoUAYAtCOEL#scrollTo=5b9d1109-3f22-4bcc-a966-20a24da4e835
 
