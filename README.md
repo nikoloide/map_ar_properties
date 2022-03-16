@@ -1,5 +1,5 @@
 # Analisis espacial partiendo de datos geolocalizados
-## Analisi por precio de metro cuadrado de departamentos en Venta en la Ciudad Autónoma de Buenos Aires
+## Precio del metro cuadrado de departamentos en Venta en la Ciudad Autónoma de Buenos Aires
 
 - 01_generate_data: proceso de carga de datos, selección, generación de features y determinación de vecinos cercanos.
 - 02_map_ar_properties: notebbok de creación y visualización la capas del mapa y el raster.
